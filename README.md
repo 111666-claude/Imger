@@ -9,6 +9,7 @@ This repository contains a collection of image processing algorithms written in 
 * Grayscale
 * Blend (AddScalarToGray, AddGray, AddGrayWeighted)
 * Threshold (Binary, BinaryInv, Trunc, ToZero, ToZeroInv, Otsu)
+* Skeletonization (Zhang-Suen thinning)
 * Image padding (BorderConstant, BorderReplicate, BorderReflect)
 * Convolution
 * Blur (Average - Box, Gaussian)
